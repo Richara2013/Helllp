@@ -1,0 +1,273 @@
+h3{
+ color: rgb(5, 5, 5);
+}
+h2{
+    color: rgb(5, 5, 5);
+}
+h1{
+    color: rgb(5, 5, 5);
+}
+
+li{
+    color: rgb(5, 5, 5);
+}
+p{
+    color: rgb(5, 5, 5);
+
+}
+
+.grid img{
+    border: 2px solid black;
+    border-radius: 50px;
+
+}
+
+.grid{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.origami1{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.origami2{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    height: 603px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.origami3{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    height: 1210px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+
+}
+.origami4{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+
+}
+.origami5{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+}
+.origami6{
+    border-radius: 20px;
+    background-color: white;
+    width: 310px;
+    font-family: fantasy;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+.menu {
+    font-size: 40px;
+    width: 310px;
+    font-family: fantasy;
+    margin-bottom: 30px;
+    margin-left: 625px;
+}
+
+.menu2{
+    display: flex;
+    justify-content:flex-end;
+    background-color: #3EB8F4;
+    width:1545px ;
+}
+
+.texxt{
+    border: unset;
+    margin: 10px;
+}
+
+body{
+    margin: 0px;
+    background-color: whitesmoke;
+}
+
+.topup{
+    display: flex;
+    justify-content:center;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.topUp2{
+    display: flex;
+    justify-content:center;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.topUp3{
+    display: flex;
+    justify-content:center;
+   
+}
+
+.topUp4{
+    display: flex;
+    justify-content:center;
+   
+}
+
+.tops{
+    margin-top: 100px;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.some{
+position: absolute;
+top: 25%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+
+.oner{
+    margin-left: 1010px;
+}
+
+.onew3{
+    margin-left: 1010px;
+}
+
+.opened{
+    display: flex;
+    justify-content: center;
+    border: unset;
+    margin: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 650px;
+    height: 400px;
+    font-family:unset;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 700px;
+    position: absolute;
+    top: 45%;
+    left: 5%;
+    font-size: 25px;
+}
+.opened2{
+    display: flex;
+    justify-content: center;
+    border: unset;
+    margin: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 650px;
+    height: 200px;
+    font-family:unset;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 700px;
+    position: absolute;
+        top: 110%;
+        right: 50%;
+        font-size: 25px;
+}
+
+.opened3{
+    display: flex;
+    justify-content: center;
+    border: unset;
+    margin: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 650px;
+    height: 350px;
+    font-family:unset;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 700px;
+    position: absolute;
+        top: 175%;
+        left: 5%;
+        font-size: 25px;
+}
+
+.opened4{
+    display: flex;
+    justify-content: center;
+    border: unset;
+    margin: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 650px;
+    height: 230px;
+    font-family:unset;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 700px;
+    position: absolute;
+    top: 235%;
+    right: 50%;
+    font-size: 25px;
+}
+
+.opened5{
+    display: flex;
+    justify-content: center;
+    border: unset;
+    margin: 100px;
+    border-radius: 20px;
+    background-color: white;
+    width: 650px;
+    height: 290px;
+    font-family:unset;
+    border: 2px solid black;
+    margin-right: 50px;
+    margin-left: 700px;
+    position: absolute;
+        top: 300%;
+        left: 5%;
+        font-size: 25px;
+}
+
+.tk{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 360%;
+    left: 30%;
+    font-size: 40px;
+}
+
+.tkk2{
+    position: absolute;
+    top: 360%;
+    left: 23%;
+}
